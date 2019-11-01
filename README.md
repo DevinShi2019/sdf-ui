@@ -1,39 +1,12 @@
-# sdf-ui
+# 安装
 
-## Project setup
+## NPM
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
+npm i sdf-ui -S
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## 快速上手
+更多内容请参考 [快速上手](http://blog.eamonn.cn/sdf-ui/#/start)。
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Run your end-to-end tests
-```
-npm run test:e2e
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 开发指南
+更多内容请参考 [开发指南](http://blog.eamonn.cn/sdf-ui/#/contribute)。
